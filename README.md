@@ -10,6 +10,7 @@ John downloaded the virus to a USB drive, along with a set of anti-forensic tool
 John later accessed the TechNova office during off-hours and plugged the USB into a company PC. He installed the malware and anti-forensic tools, executed the virus, and allowed it to spread across the company’s internal network. The malware began replicating and caused noticeable slowdowns and system crashes.
 TechNova’s internal monitoring systems flagged unusual memory usage, prompting a security investigation. John was stopped during a routine security checkpoint while leaving the premises. His personal laptop and USB drive were seized. A RAM dump of the infected company PC was taken for forensic investigation.
 The following devices were sent to the digital forensics lab for examination:
+
 ●	John Doe’s personal laptop (HDD imaging and search history inspection)
 ●	Malicious USB device (partition suspected)
 ●	Memory image of the infected company PC (to analyze malware activity using Volatility)
