@@ -12,5 +12,7 @@ TechNova’s internal monitoring systems flagged unusual memory usage, prompting
 The following devices were sent to the digital forensics lab for examination:
 
 ●	John Doe’s personal laptop (HDD imaging and search history inspection)
+
 ●	Malicious USB device (partition suspected)
+
 ●	Memory image of the infected company PC (to analyze malware activity using Volatility)
